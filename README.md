@@ -7,7 +7,7 @@ O piano virtual permite que o usuário toque notas musicais clicando nas teclas 
 
 ## 📸 Demonstração
 
-![Demo do Piano](./assets/piano-preview.png) <!-- troque pelo caminho da sua imagem/gif -->
+![Demo do Piano](./pianoweb.png) <!-- troque pelo caminho da sua imagem/gif -->
 
 ---
 
@@ -33,7 +33,12 @@ O piano virtual permite que o usuário toque notas musicais clicando nas teclas 
 ```bash
 📦 piano-web
  ┣ 📂 scripts
- ┃ ┗ 📜 engine.js       # Arquivos de áudio (.wav)
- ┣ 📂 assets        # Imagens e prévias (opcional)
+ ┃ ┗ 📜 engine.js  # Programação Principal do Projeto 
+ ┣ 📂 styles
+ ┃ ┣ 📜 main.css   # Estilização Principal
+ ┃ ┗ 📜 reset.css  # Reset da estilização do Projeto
+ ┣ 📂 tunes
+ ┃ ┗ 📜 audios.wav  # Audios do projetos
+ ┣ 📜 pianoweb.png  # Imagem do piano
  ┗ 📜 index.html    # Estrutura principal
 
