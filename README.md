@@ -7,7 +7,7 @@ O piano virtual permite que o usuário toque notas musicais clicando nas teclas 
 
 ## 📸 Demonstração
 
-![Demo do Piano](./pianoweb.png) <!-- troque pelo caminho da sua imagem/gif -->
+![Demo do Piano](../pianoweb.png) <!-- troque pelo caminho da sua imagem/gif -->
 
 ---
 
